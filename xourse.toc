@@ -1,0 +1,41 @@
+\contentsline {part}{I\hspace {1em}Derivatives}{4}{part.1}
+\contentsline {section}{Derivatives}{4}{section*.1}
+\contentsline {section}{Derivatives}{5}{section*.2}
+\contentsline {section}{Derivatives}{6}{section*.3}
+\contentsline {section}{Derivatives}{7}{section*.4}
+\contentsline {section}{Derivatives}{8}{section*.5}
+\contentsline {part}{II\hspace {1em}Graphing Derivative Functions}{9}{part.2}
+\contentsline {section}{Graphing Derivative Functions}{9}{section*.6}
+\contentsline {section}{Graphing Derivative Functions}{10}{section*.7}
+\contentsline {section}{Graphing Derivative Functions}{11}{section*.8}
+\contentsline {section}{Graphing Derivative Functions}{12}{section*.9}
+\contentsline {part}{III\hspace {1em}Using Basic Derivative Rules}{13}{part.3}
+\contentsline {section}{Using Basic Derivative Rules}{13}{section*.10}
+\contentsline {section}{Using Basic Derivative Rules}{14}{section*.11}
+\contentsline {section}{Using Basic Derivative Rules}{15}{section*.12}
+\contentsline {section}{Using Basic Derivative Rules}{16}{section*.13}
+\contentsline {section}{Using Basic Derivative Rules}{17}{section*.14}
+\contentsline {part}{IV\hspace {1em}The Chain Rule}{18}{part.4}
+\contentsline {section}{The Chain Rule}{18}{section*.15}
+\contentsline {section}{The Chain Rule}{19}{section*.16}
+\contentsline {section}{The Chain Rule}{20}{section*.17}
+\contentsline {section}{The Chain Rule}{21}{section*.18}
+\contentsline {section}{The Chain Rule}{22}{section*.19}
+\contentsline {part}{V\hspace {1em}Optimization}{23}{part.5}
+\contentsline {section}{Optimization}{23}{section*.20}
+\contentsline {section}{Optimization}{24}{section*.21}
+\contentsline {section}{Optimization}{25}{section*.22}
+\contentsline {section}{Optimization}{26}{section*.23}
+\contentsline {section}{Optimization}{27}{section*.24}
+\contentsline {part}{VI\hspace {1em}Integrals from Riemann Sums}{28}{part.6}
+\contentsline {section}{Integrals from Riemann Sums}{28}{section*.25}
+\contentsline {section}{Integrals from Riemann Sums}{29}{section*.26}
+\contentsline {section}{Integrals from Riemann Sums}{30}{section*.27}
+\contentsline {section}{Integrals from Riemann Sums}{31}{section*.28}
+\contentsline {section}{Integrals from Riemann Sums}{32}{section*.29}
+\contentsline {part}{VII\hspace {1em}Anti-derivatives}{33}{part.7}
+\contentsline {section}{Antiderivatives}{33}{section*.30}
+\contentsline {section}{Antiderivatives}{34}{section*.31}
+\contentsline {section}{Antiderivatives}{35}{section*.32}
+\contentsline {section}{Antiderivatives}{36}{section*.33}
+\contentsfinish 

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.12.28)  4 FEB 2017 15:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.12.28)  4 FEB 2017 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**vid1b.tex
-(./vid1b.tex
+**vid1d.tex
+(./vid1d.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 
@@ -1067,7 +1067,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \c@titlenumber=\count196
 \c@sectiontitlenumber=\count197
 \outcomefile=\write6
-\openout6 = `vid1b.oc'.
+\openout6 = `vid1d.oc'.
 
 \c@theorem=\count198
 \c@algorithm=\count199
@@ -1098,25 +1098,25 @@ Excluding comment 'matrixAnswer'
 \c@problem=\count222
 \c@problemType=\count223
 \myfile=\write7
-\openout7 = `vid1b.jax'.
+\openout7 = `vid1d.jax'.
 
-) (./preamble.tex) (./vid1b.aux)
-\openout1 = `vid1b.aux'.
+) (./preamble.tex) (./vid1d.aux)
+\openout1 = `vid1d.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -1151,11 +1151,11 @@ e
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into 
 your preamble.
- on input line 6.
+ on input line 7.
 
 \c@lstlisting=\count230
 \AtBeginShipoutBox=\box66
-Package hyperref Info: Link coloring ON on input line 6.
+Package hyperref Info: Link coloring ON on input line 7.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1164,38 +1164,38 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count231
 )
-LaTeX Info: Redefining \ref on input line 6.
-LaTeX Info: Redefining \pageref on input line 6.
-LaTeX Info: Redefining \nameref on input line 6.
+LaTeX Info: Redefining \ref on input line 7.
+LaTeX Info: Redefining \pageref on input line 7.
+LaTeX Info: Redefining \nameref on input line 7.
 
-(./vid1b.out) (./vid1b.out)
+(./vid1d.out) (./vid1d.out)
 \@outlinefile=\write8
-\openout8 = `vid1b.out'.
+\openout8 = `vid1d.out'.
 
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 15.
- (./vid1b.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15.
-Package rerunfilecheck Info: File `vid1b.out' has not changed.
-(rerunfilecheck)             Checksum: AB403B483F2DD1A372F1C74569F17647;47.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 16.
+ (./vid1d.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 16.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 16.
+Package rerunfilecheck Info: File `vid1d.out' has not changed.
+(rerunfilecheck)             Checksum: CAB6821C4B1CA46F55B848C8734A8240;83.
  ) 
 Here is how much of TeX's memory you used:
  34888 strings out of 493085
  784613 string characters out of 6136916
- 925444 words of memory out of 5000000
+ 925480 words of memory out of 5000000
  37840 multiletter control sequences out of 15000+600000
  5550 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,6n,79p,10411b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,6n,79p,10395b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on vid1b.pdf (1 page, 41643 bytes).
+Output written on vid1d.pdf (1 page, 46966 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream

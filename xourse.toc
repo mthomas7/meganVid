@@ -1,8 +1,2 @@
 \contentsline {part}{I\hspace {1em}Rate of change at a point}{3}{part.1}
-\contentsline {section}{Rate of change at a point}{3}{section*.1}
-\contentsline {section}{Rate of change at a point}{4}{section*.2}
-\contentsline {section}{Rate of change at a point}{5}{section*.3}
-\contentsline {section}{Rate of change at a point}{6}{section*.4}
-\contentsline {section}{Derivatives}{7}{section*.5}
-\contentsline {section}{Derivatives}{8}{section*.6}
 \contentsfinish 

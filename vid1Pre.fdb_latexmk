@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1486220833 "vid1Pre.tex" "vid1Pre.pdf" "vid1Pre" 1486220833
+["pdflatex"] 1486494588 "vid1Pre.tex" "vid1Pre.pdf" "vid1Pre" 1486494590
   "/etc/texmf/web2c/texmf.cnf" 1451279870 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
-  "/projects/8dbbe682-76f9-489e-aa8f-8e922e0ee813/texmf/tex/latex/ximeraLatex/ximera.cls" 1472434403 33536 88c322b6faee617d674b8bdbbffa4b01 ""
+  "/projects/8dbbe682-76f9-489e-aa8f-8e922e0ee813/texmf/tex/latex/ximeraLatex/ximera.cls" 1486223248 33516 36e6e71593a2177f3afb84dac0aa5241 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -198,15 +198,15 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1451280563 1779312 b2f993ff39f888114b7dddf8751f0ae0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1451280644 3844746 6b008947ed367f1201b54964b1675710 ""
   "preamble.tex" 1471784529 23 97cb292c84aad5aef4bfd7d16e0ebf28 ""
-  "vid1Pre.aux" 1486220833 782 6756439c8555c49fc93ef1ddfd95756a ""
-  "vid1Pre.out" 1486220833 47 ab403b483f2dd1a372f1c74569f17647 ""
-  "vid1Pre.tex" 1486220823 425 7d58f1d7e579a469a9dfcab7cbc4f87e ""
+  "vid1Pre.aux" 1486494590 796 4aabc0e3d3a9d1e5236a715bab08e8c0 ""
+  "vid1Pre.out" 1486494590 61 bab8396ebf5047849b044f540d45ecaf ""
+  "vid1Pre.tex" 1486494585 439 daf82bc34074d9658950ef1a055e8211 ""
   (generated)
-  "vid1Pre.out"
-  "vid1Pre.tmp"
+  "vid1Pre.pdf"
   "vid1Pre.aux"
-  "vid1Pre.xref"
+  "vid1Pre.out"
   "vid1Pre.oc"
   "vid1Pre.jax"
+  "vid1Pre.tmp"
+  "vid1Pre.xref"
   "vid1Pre.log"
-  "vid1Pre.pdf"

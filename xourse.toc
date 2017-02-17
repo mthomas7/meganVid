@@ -11,4 +11,5 @@
 \contentsline {section}{Graphing Derivative Functions}{11}{section*.9}
 \contentsline {section}{Graphing Derivative Functions}{12}{section*.10}
 \contentsline {section}{Graphing Derivative Functions}{13}{section*.11}
+\contentsline {section}{Graphing Derivative Functions}{14}{section*.12}
 \contentsfinish 

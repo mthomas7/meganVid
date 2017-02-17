@@ -384,6 +384,14 @@ INPUT vid2a.tex
 INPUT vid2a.tex
 INPUT vid2b.tex
 INPUT vid2b.tex
+INPUT graph1.png
+INPUT ./graph1.png
+INPUT ./graph1.png
+INPUT vid2c.tex
+INPUT vid2c.tex
+INPUT graph2.png
+INPUT ./graph2.png
+INPUT ./graph2.png
 INPUT vid2Q.tex
 INPUT vid2Q.tex
 INPUT stop2.tex

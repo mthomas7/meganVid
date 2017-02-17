@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1487328289 "vid2Q.tex" "vid2Q.pdf" "vid2Q" 1487328290
+["pdflatex"] 1487328958 "vid2Q.tex" "vid2Q.pdf" "vid2Q" 1487328959
   "/etc/texmf/web2c/texmf.cnf" 1451279870 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/projects/8dbbe682-76f9-489e-aa8f-8e922e0ee813/texmf/tex/latex/ximeraLatex/ximera.cls" 1486223248 33516 36e6e71593a2177f3afb84dac0aa5241 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -209,15 +209,15 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1451280563 1779312 b2f993ff39f888114b7dddf8751f0ae0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1451280644 3844746 6b008947ed367f1201b54964b1675710 ""
   "preamble.tex" 1471784529 23 97cb292c84aad5aef4bfd7d16e0ebf28 ""
-  "vid2Q.aux" 1487328290 800 4452c2088b5e64708bf2bad0db405543 ""
-  "vid2Q.out" 1487328290 65 1477a5669bcb75862bafbb2b79ac618e ""
-  "vid2Q.tex" 1487328289 286 bd95936c8730f78a607dd01ea0710259 ""
+  "vid2Q.aux" 1487328959 786 7fce537a17645aa7fb74c76e24276f38 ""
+  "vid2Q.out" 1487328959 51 7560243318b8dd3f48bec40e92368549 ""
+  "vid2Q.tex" 1487328956 272 2f04f0ba899b46ccaa9567b4b2488d4d ""
   (generated)
-  "vid2Q.tmp"
-  "vid2Q.oc"
-  "vid2Q.out"
-  "vid2Q.xref"
-  "vid2Q.jax"
-  "vid2Q.pdf"
-  "vid2Q.aux"
   "vid2Q.log"
+  "vid2Q.oc"
+  "vid2Q.pdf"
+  "vid2Q.xref"
+  "vid2Q.aux"
+  "vid2Q.jax"
+  "vid2Q.out"
+  "vid2Q.tmp"

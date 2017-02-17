@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1487328228 "vid2c.tex" "vid2c.pdf" "vid2c" 1487328229
+["pdflatex"] 1487328953 "vid2c.tex" "vid2c.pdf" "vid2c" 1487328954
   "/etc/texmf/web2c/texmf.cnf" 1451279870 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/projects/8dbbe682-76f9-489e-aa8f-8e922e0ee813/texmf/tex/latex/ximeraLatex/ximera.cls" 1486223248 33516 36e6e71593a2177f3afb84dac0aa5241 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -199,13 +199,13 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1451280644 3844746 6b008947ed367f1201b54964b1675710 ""
   "graph2.png" 1487328093 37121 ddfad4492ebf9f6f44ec3c26486ee4f5 ""
   "preamble.tex" 1471784529 23 97cb292c84aad5aef4bfd7d16e0ebf28 ""
-  "vid2c.aux" 1487328229 800 4452c2088b5e64708bf2bad0db405543 ""
-  "vid2c.out" 1487328229 65 1477a5669bcb75862bafbb2b79ac618e ""
-  "vid2c.tex" 1487328228 265 15feced9181c7581c788f131e6061a85 ""
+  "vid2c.aux" 1487328954 786 7fce537a17645aa7fb74c76e24276f38 ""
+  "vid2c.out" 1487328954 51 7560243318b8dd3f48bec40e92368549 ""
+  "vid2c.tex" 1487328952 251 01cd24f132d39be6d327bb7617e5fdb9 ""
   (generated)
-  "vid2c.log"
-  "vid2c.oc"
-  "vid2c.jax"
-  "vid2c.aux"
   "vid2c.pdf"
+  "vid2c.jax"
+  "vid2c.oc"
+  "vid2c.aux"
   "vid2c.out"
+  "vid2c.log"

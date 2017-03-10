@@ -14,7 +14,12 @@
 \contentsline {section}{Curve Sketching}{14}{section*.12}
 \contentsline {part}{III\hspace {1em}The Power Rule}{15}{part.3}
 \contentsline {section}{The Power Rule}{15}{section*.13}
-\contentsline {section}{Using Basic Derivative Rules}{16}{section*.14}
+\contentsline {section}{The Power Rule}{16}{section*.14}
 \contentsline {section}{Using Basic Derivative Rules}{17}{section*.15}
 \contentsline {section}{Using Basic Derivative Rules}{18}{section*.16}
+\contentsline {part}{IV\hspace {1em}More Derivative Rules}{19}{part.4}
+\contentsline {section}{More Derivative Rules}{19}{section*.17}
+\contentsline {section}{The Chain Rule}{20}{section*.18}
+\contentsline {section}{The Chain Rule}{21}{section*.19}
+\contentsline {section}{The Chain Rule}{22}{section*.20}
 \contentsfinish 

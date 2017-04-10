@@ -32,4 +32,9 @@
 \contentsline {section}{Optimization}{29}{section*.26}
 \contentsline {section}{Optimization}{30}{section*.27}
 \contentsline {section}{Optimization}{31}{section*.28}
+\contentsline {part}{VII\hspace {1em}Riemann Sums}{32}{part.7}
+\contentsline {section}{Riemann Sums}{32}{section*.29}
+\contentsline {section}{Riemann Sums}{33}{section*.30}
+\contentsline {section}{Riemann Sums}{34}{section*.31}
+\contentsline {section}{Riemann Sums}{35}{section*.32}
 \contentsfinish 

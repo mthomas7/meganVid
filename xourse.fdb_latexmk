@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1492804271 "xourse.tex" "xourse.pdf" "xourse" 1492804272
+["pdflatex"] 1492804398 "xourse.tex" "xourse.pdf" "xourse" 1492804399
   "/etc/texmf/web2c/texmf.cnf" 1451280570 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/projects/8dbbe682-76f9-489e-aa8f-8e922e0ee813/texmf/tex/latex/ximeraLatex/ximera.cls" 1486223248 33516 36e6e71593a2177f3afb84dac0aa5241 ""
   "/projects/8dbbe682-76f9-489e-aa8f-8e922e0ee813/texmf/tex/latex/ximeraLatex/xourse.cls" 1472434403 4383 21c5042ac175be4a380ce851a9ffd733 ""
@@ -258,15 +258,15 @@
   "vid8.tex" 1492804154 204 39c77a800310ece61e33f3259aea6b50 ""
   "vid8Pre.tex" 1492804205 315 05171a7d5d1657ed6932f328f71c65de ""
   "vid8Q.tex" 1492804260 277 44f6df3a197647af8ef5a03cd404c344 ""
-  "xourse.aux" 1492804272 4183 5e569364a5e342422668e47c103772c1 ""
-  "xourse.out" 1492804272 2593 d0f4cf089875a9453679846926186391 ""
-  "xourse.tex" 1492804269 1179 e7437cc5d12d4368b3cf68f99e1160b5 ""
-  "xourse.toc" 1492804272 2688 b009b7b86783e8ed04bb58357c140c59 ""
+  "xourse.aux" 1492804399 4191 cfe9ffea078dfbbec12e97e1ba582b79 ""
+  "xourse.out" 1492804399 2601 3d66b8ded59988be919f5782eb6b93a9 ""
+  "xourse.tex" 1492804396 1187 0608e829ea6bfbe72540a8c25f9c1b12 ""
+  "xourse.toc" 1492804399 2696 e7b34677da3bd4c910b7587a2e4ff426 ""
   (generated)
-  "xourse.oc"
-  "xourse.pdf"
-  "xourse.out"
-  "xourse.log"
+  "xourse.jax"
   "xourse.toc"
   "xourse.aux"
-  "xourse.jax"
+  "xourse.out"
+  "xourse.oc"
+  "xourse.log"
+  "xourse.pdf"
